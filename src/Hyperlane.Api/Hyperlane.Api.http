@@ -1,0 +1,6 @@
+@Hyperlane.Api_HostAddress = http://localhost:5003
+
+GET {{Hyperlane.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

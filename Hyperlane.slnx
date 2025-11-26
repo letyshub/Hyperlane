@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Hyperlane.Api/Hyperlane.Api.csproj" />
+    <Project Path="src/Hyperlane.Application/Hyperlane.Application.csproj" />
+    <Project Path="src/Hyperlane.Core/Hyperlane.Core.csproj" />
+    <Project Path="src/Hyperlane.Infrastructure/Hyperlane.Infrastructure.csproj" />
+    <Project Path="src/Hyperlane.Web/Hyperlane.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Hyperlane.Api.Tests/Hyperlane.Api.Tests.csproj" Id="3e205e39-8bcd-45f4-b0b4-cdf327376823" />
+    <Project Path="tests/Hyperlane.Core.Tests/Hyperlane.Core.Tests.csproj" Id="afc458f5-a0bc-4a45-b6b1-d4adb1fc50d9" />
+    <Project Path="tests/Hyperlane.Infrastructure.Tests/Hyperlane.Infrastructure.Tests.csproj" Id="26b54a8c-3437-4355-9df2-a42f4ab79c9c" />
+    <Project Path="tests/Hyperlane.Web.Tests/Hyperlane.Web.Tests.csproj" Id="ef1a27a2-2df2-45dc-9844-5c850d53fbb9" />
+  </Folder>
+</Solution>
